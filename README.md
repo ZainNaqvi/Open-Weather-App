@@ -23,4 +23,4 @@ To install and run the Open Weather App on your device, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/open-weather-app.git
+git clone https://github.com/zainnaqvi/open-weather-app.git
