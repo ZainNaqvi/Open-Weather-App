@@ -172,6 +172,7 @@
                         >
 
                         <TextView
+                            android:id="@+id/pressure"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="1000"
@@ -210,6 +211,7 @@
                         android:padding="8dp">
 
                         <TextView
+                            android:id="@+id/humidity"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:paddingRight="100dp"
@@ -222,7 +224,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:paddingRight="100dp"
-                            android:text="Pressure"
+                            android:text="Humidity"
                             android:textColor="@color/black"
                             android:textSize="18sp" />
 
